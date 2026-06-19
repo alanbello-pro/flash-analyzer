@@ -1,0 +1,12 @@
+*
+!.gitignore
+!LICENSE
+!README.md
+!requirements.txt
+!main.py
+!config.py
+!parser.py
+!reporter.py
+!domain.py
+!test_analyzer.py
+
